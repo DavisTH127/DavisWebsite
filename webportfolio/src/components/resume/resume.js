@@ -87,33 +87,33 @@ class Resume extends Component {
           <div className="row">
             <div className="three columns header-col">
             </div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-java-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-java-plain colored"></span></div>
               <h5 class="skills-title font-serif">Java</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-html5-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-html5-plain colored"></span></div>
               <h5 class="skills-title font-serif">HTML</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-javascript-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-javascript-plain colored"></span></div>
               <h5 class="skills-title font-serif">JavaScript</h5></div>
           </div>
           <br></br>
           <div className="row">
             <div className="three columns header-col">
             </div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-python-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-python-plain colored"></span></div>
               <h5 class="skills-title font-serif">Python</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-react-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-react-plain colored"></span></div>
               <h5 class="skills-title font-serif">React</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-css3-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-css3-plain colored"></span></div>
               <h5 class="skills-title font-serif">CSS</h5></div>
           </div>
           <br></br>
           <div className="row">
             <div className="three columns header-col">
             </div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-swift-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-swift-plain colored"></span></div>
               <h5 class="skills-title font-serif">Swift</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-postgresql-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-postgresql-plain colored"></span></div>
               <h5 class="skills-title font-serif">Postgresql</h5></div>
-            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-amazonwebservices-plain"></span></div>
+            <div className="three columns header-col"><div class="skills-icon"><span class="devicon-amazonwebservices-plain colored"></span></div>
               <h5 class="skills-title font-serif">Amazonwebservices</h5></div>
           </div>{/* End skills */}
         </section> {/* Resume Section End*/}

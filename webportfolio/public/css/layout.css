@@ -293,7 +293,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #skill {
-   background: rgb(250, 250, 250);
+   background: rgb(250, 250, 250) url(../images/skills-background.jpg) no-repeat top center;
    padding-top: 90px;
    padding-bottom: 60px;
 }
