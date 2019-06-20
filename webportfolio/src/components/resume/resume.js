@@ -9,8 +9,6 @@ class Resume extends Component {
           <div className="row educations">
             <div className="three columns header-col">
               <h1><span>Education</span></h1>
-              <br></br><br></br><br></br>
-              <h1><span>Courses</span></h1>
             </div>
             <div className="nine columns main-col">
               <div className="row item">
@@ -18,6 +16,19 @@ class Resume extends Component {
                   <h3>San Francisco State University</h3>
                   <p className="info">B.S. Degree in Computer Science <span>•</span> <em className="date">August 2014 - May 2019</em></p>
                 </div>
+              </div> {/* item end */}
+            </div> {/* main-col end */}
+          </div> {/* End Education */}
+
+          {/* Courses
+          ----------------------------------------------- */}
+          <div className="row work">
+            <div className="three columns header-col">
+              <br></br>
+              <h1><span>Courses</span></h1>
+            </div>
+            <div className="nine columns main-col">
+              <div className="row item">
                 <div className="twelve columns">
                   <h4>
                     <br></br>
@@ -38,12 +49,13 @@ class Resume extends Component {
                       <li>HUMAN COMPUTER INTERACTION</li>
                       <li>SOFTWARE DEVELOPMENT</li>
                       <li>SOFTWARE ENGINEERING</li>
+                      <br></br>
                     </ul>
                   </h4>
                 </div>
               </div> {/* item end */}
             </div> {/* main-col end */}
-          </div> {/* End Education */}
+          </div>{/*End Courses*/}
           {/* Work
           ----------------------------------------------- */}
           <div className="row work">
